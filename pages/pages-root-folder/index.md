@@ -5,8 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-title: "Home"
-description: "Welcome to my site"
+title: "Inicio"
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -20,17 +19,17 @@ description: "Welcome to my site"
 
 widget1:
   title: "Comunicaciones"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  url: 'http://carmenguidet.github.io/conoce/comunicaciones'
   image: widget-1-302x182.jpg
   text: 'Aqui descubriras que es lo que nos perimite comunicarnos a largas distancias.'
 widget2:
   title: "Electronica"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
+  url: 'http://carmenguidet.github.io/conoce/electronica'
   image: widget-1-302x182.jpg
   text: 'Una de las razones por las que nos podemos comunicar es gracias a la electronica.'
 widget3:
   title: "Redes"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  url: 'http://carmenguidet.github.io/conoce/redes'
   image: widget-github-303x182.jpg
   text: 'Las redes como el Intenet nos permite estar comunicados en todo momento.'
 
