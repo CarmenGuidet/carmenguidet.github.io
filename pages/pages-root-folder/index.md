@@ -34,11 +34,6 @@ widget3:
   image: widget-github-303x182.jpg
   text: 'Las redes como el Intenet nos permite estar comunicados en todo momento.'
 
-callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Desde casa
-  style: alert
-permalink: /index.html
 
 callforaction:
   url1: https://tinyletter.com/feeling-responsive
