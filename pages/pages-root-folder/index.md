@@ -5,7 +5,8 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-title: "Inicio"
+title: "Home"
+description: "Welcome to my site"
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -20,7 +21,7 @@ title: "Inicio"
 widget1:
   title: "Comunicaciones"
   url: 'http://carmenguidet.github.io/conoce/comunicaciones'
-  image: comunicaciones.jpg
+  image: widget-1-302x182.jpg
   text: 'Aqui descubriras que es lo que nos perimite comunicarnos a largas distancias.'
 widget2:
   title: "Electronica"
@@ -35,12 +36,13 @@ widget3:
 
 
 callforaction:
-  url1: https://tinyletter.com/feeling-responsive
-  text1: Experimenta y crea desde casa
+  url1: http://carmenguidet.github.io/experimenta/casa
+  text1: Experimenta y crea desde casa 
   style1: alert
   url2: https://tinyletter.com/feeling-responsive
   text2: Para profesorado
   style2: alert
+
 permalink: /index.html
 
 #
