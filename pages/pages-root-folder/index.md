@@ -20,7 +20,7 @@ title: "Inicio"
 widget1:
   title: "Comunicaciones"
   url: 'http://carmenguidet.github.io/conoce/comunicaciones'
-  image: widget-1-302x182.jpg
+  image: comunicaciones.jpg
   text: 'Aqui descubriras que es lo que nos perimite comunicarnos a largas distancias.'
 widget2:
   title: "Electronica"
