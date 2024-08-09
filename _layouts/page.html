@@ -14,7 +14,6 @@ format: post
 					<figcaption class="text-right">
 						<a href="{{ page.image.caption_url }}">{{ page.image.caption }}</a>
 					</figcaption>
-					{% elsif page.image.caption %}
 					<figcaption class="text-right">
 						{{ page.image.caption }}
 					</figcaption>
@@ -61,5 +60,11 @@ format: post
 	<div class="medium-4 columns">
 		{% include _sidebar.html %}
 	</div><!-- /.medium-4.columns -->
+	{% endif %}
+
+	{% if page.image != empty %}
+	<div class="center">
+		<img src="{{ page.image.src }}" alt="{{ page.image.alt | default: page.title }}" class="img-responsive">
+	</div>
 	{% endif %}
 </div><!-- /.row -->

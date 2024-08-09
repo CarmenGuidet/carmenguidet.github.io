@@ -33,20 +33,25 @@ Vamos a crear un proyecto en Scratch que cuente la historia de las telecomunicac
 1. Ve a la página principal de Scratch.
 2. Haz clic en "Crear" para iniciar un nuevo proyecto.
 
-### 2. Diseñar el Escenario
+### 2. Investigar la Historia
+
+1. Pide ayuda a un adulto o busca en internet información sobre la historia de las telecomunicaciones en España.
+2. Escribe en un papel las fechas y los eventos importantes.
+
+    ![Historia Telecomunicaciones 1 ](/images/experimenta/ordenador/scratch/HistoriaTelecomunicaciones/HistoriaTelecominicaciones_1.png "Historia Telecomunicaciones 1")
+
+### 3. Diseñar el Escenario
 
 1. **Escenario**: Dibuja una línea de tiempo en el fondo del escenario. Esto será una línea larga con marcas para cada evento importante.
 2. **Personajes**: Elige o dibuja personajes (sprites) para representar diferentes eventos históricos.
 
-### 3. Investigar la Historia
-
-1. Pide ayuda a un adulto o busca en internet información sobre la historia de las telecomunicaciones en España.
-2. Escribe en un papel las fechas y los eventos importantes.
+    ![Historia Telecomunicaciones 2](/images/experimenta/ordenador/scratch/HistoriaTelecomunicaciones/HistoriaTelecomunicaciones_2.png "Historia Telecomunicaciones 2")
 
 ### 4. Colocar los Eventos en la Línea de Tiempo
 
 1. Coloca los personajes (sprites) en la línea de tiempo donde deben ir según la fecha.
 2. Escribe la fecha y el evento en un cuadro de texto cerca de cada sprite.
+
 
 ### 5. Programar los Sprites
 
@@ -54,8 +59,12 @@ Vamos a crear un proyecto en Scratch que cuente la historia de las telecomunicac
 2. Ejemplo: 
    - Cuando hagas clic en el sprite del teléfono, puede decir: "En 1877, se hizo la primera llamada telefónica en España."
 
+    ![Historia Telecomunicaciones 3](/images/experimenta/ordenador/scratch/HistoriaTelecomunicaciones/HistoriaTelecomunicaciones_3.png "Historia Telecomunicaciones 3")
+    
 ### 6. Probar el Proyecto
 
 1. Haz clic en la bandera verde para iniciar el proyecto.
 2. Haz clic en cada sprite para ver si muestran la información correcta.
 3. Ajusta cualquier error que encuentres.
+
+    ![Historia Telecomunicaciones 4](/images/experimenta/ordenador/scratch/HistoriaTelecomunicaciones/HistoriaTelecomunicaciones_4.png "Historia Telecomunicaciones 4")

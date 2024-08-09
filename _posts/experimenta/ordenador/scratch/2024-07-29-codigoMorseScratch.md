@@ -44,18 +44,24 @@ Desarrollar un proyecto donde los usuarios puedan ingresar un mensaje y el progr
 
 - Utilizar el bloque "Preguntar [¿Cuál es tu mensaje?] y esperar" para solicitar el mensaje del usuario.
 
+![Codigo Morse Scratch 1](/images/experimenta/ordenador/scratch/codigoMorse/CodigoMorseScratch1.png "Codigo Morse Scratch 1")
 
 ### 4. Crear la Lógica de Conversión a Código Morse
 
 - Crear una lista (array) que contenga las letras del alfabeto y sus correspondientes representaciones en código Morse.
 
+![Codigo Morse Scratch 2](/images/experimenta/ordenador/scratch/codigoMorse/CodigoMorseScratch2.png "Codigo Morse Scratch 2")
 
 - Crear una función que tome cada letra del mensaje ingresado y la convierta a su equivalente en código Morse.
 
+![Codigo Morse Scratch 3](/images/experimenta/ordenador/scratch/codigoMorse/CodigoMorseScratch3.png "Codigo Morse Scratch 3")
 
 ### 5. Mostrar el Mensaje en Código Morse
 
 - Utilizar el bloque "decir [mensajeMorse] por [2] segundos" para mostrar el mensaje convertido en la pantalla.
+
+
+![Codigo Morse Scratch 4](/images/experimenta/ordenador/scratch/codigoMorse/CodigoMorseScratch4.png "Codigo Morse Scratch 4")
 
 ### 6. (Opcional) Agregar Sonidos para las Señales Morse
 

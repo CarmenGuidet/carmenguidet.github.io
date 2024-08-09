@@ -61,6 +61,7 @@ Este experimento permite a los usuarios identificar la dirección IP de su orden
    - En la Terminal, escribe `ifconfig | grep inet` y presiona `Enter`.
    - Busca la dirección IP en las líneas que contienen `inet`.
 
+    ![IP MAC](/images/experimenta/ordenador/terminal/ip_MACOS.jpg "IP MAC")
 
 #### En Linux:
 

@@ -47,9 +47,12 @@ De 6 a 10 años
 
 1. Haz un pequeño agujero en el fondo de cada vaso, si el vaso es de cartón, podremos hacer el agujero un lapiz o boligrafo.
 
+    ![Telefono vasos hilos 1](/images/experimenta/casa/telefonoVasos1.jpg "Telefono vasos hilos 1")
+
 2. Pasa el hilo a través del agujero de cada vaso.
 3. Ata un nudo en el principio de los hilos para que el hilo no se salga de ls vasos.
-
+    
+    ![Telefono vasos hilos 2](/images/experimenta/casa/telefonoVasos2.jpg "Telefono vasos hilos 2")
 4. Estira el hilo para que quede tenso entre los dos vasos.
 5. Una persona habla en un vaso mientras otra escucha en el otro vaso. Observen cómo el sonido se transmite a través del hilo.
 

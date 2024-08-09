@@ -21,7 +21,7 @@ description: "Welcome to my site"
 widget1:
   title: "Comunicaciones"
   url: 'http://carmenguidet.github.io/conoce/comunicaciones'
-  image: widget-1-302x182.jpg
+  image: "/images/comunicaciones.jpg"
   text: 'Aqui descubriras que es lo que nos perimite comunicarnos a largas distancias.'
 widget2:
   title: "Electronica"
@@ -31,7 +31,7 @@ widget2:
 widget3:
   title: "Redes"
   url: 'http://carmenguidet.github.io/conoce/redes'
-  image: widget-github-303x182.jpg
+  image: ""
   text: 'Las redes como el Intenet nos permite estar comunicados en todo momento.'
 
 

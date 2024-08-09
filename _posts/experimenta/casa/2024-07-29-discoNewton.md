@@ -44,7 +44,7 @@ En este experimento, construiremos un Disco de Newton para demostrar cómo la co
 - Tijeras
 - Pegamento
 - Un motor pequeño con batería (opcional) o un lápiz
-
+![Disco Newton 1](/images/experimenta/casa/discoNewton1.jpeg "Disco Newton 1")
 
 ### Recursos de apoyo
 
@@ -56,16 +56,16 @@ En este experimento, construiremos un Disco de Newton para demostrar cómo la co
 1. **Preparación del disco:**
    - Utiliza el compás o el objeto circular para trazar un círculo en el cartón o la cartulina.
    - Recorta el círculo con las tijeras.
- 
-
+   ![Disco Newton 2](/images/experimenta/casa/discoNewton2.jpeg "Disco Newton 2")
 2. **División del círculo:**
    - Divide el círculo en seis secciones iguales, utilizando un lápiz y una regla si es necesario.
    - Colorea cada sección con un color diferente del espectro visible: rojo, naranja, amarillo, verde, azul y violeta.
+![Disco Newton 3](/images/experimenta/casa/discoNewton3.jpeg "Disco Newton 3")
 
 3. **Montaje del disco:**
    - Si estás usando un motor pequeño, pega el disco al eje del motor.
    - Si no tienes un motor, haz un pequeño agujero en el centro del disco y pasa un lápiz a través del agujero, asegurándote de que el disco pueda girar libremente.
-
+ ![Disco Newton 4](/images/experimenta/casa/discoNewton4.jpeg "Disco Newton 4")
 4. **Realización del experimento:**
    - Enciende el motor para hacer girar el disco o hazlo girar rápidamente con tus manos utilizando el lápiz.
    - Observa cómo los colores se mezclan a medida que el disco gira rápidamente. Deberías ver que los colores se combinan para formar una apariencia de luz blanca o gris.
