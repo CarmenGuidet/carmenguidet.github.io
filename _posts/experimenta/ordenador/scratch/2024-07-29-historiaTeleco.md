@@ -35,7 +35,8 @@ Vamos a crear un proyecto en Scratch que cuente la historia de las telecomunicac
 
 ### 2. Investigar la Historia
 
-1. Pide ayuda a un adulto o busca en internet información sobre la historia de las telecomunicaciones en España.
+1. Pide ayuda a un adulto o busca en internet información sobre la historia de las telecomunicaciones en España. 
+    Puedes encontar información en el siguiente folleto de TelecoRenta.  [Hitos de la Telecomunicación](https://telecorenta.es/wp-content/uploads/2024/03/Resumen-Hitos-de-la-Telecomunicacion.pdf)
 2. Escribe en un papel las fechas y los eventos importantes.
 
     ![Historia Telecomunicaciones 1 ](/images/experimenta/ordenador/scratch/HistoriaTelecomunicaciones/HistoriaTelecominicaciones_1.png "Historia Telecomunicaciones 1")
