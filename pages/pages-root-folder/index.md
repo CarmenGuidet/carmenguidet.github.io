@@ -5,8 +5,8 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-title: "Home"
-description: "Welcome to my site"
+title: "Inicio"
+description: "Experimenta las telecomunicaciones"
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -21,7 +21,7 @@ description: "Welcome to my site"
 widget1:
   title: "Comunicaciones"
   url: 'http://carmenguidet.github.io/conoce/comunicaciones'
-  image: "/images/comunicaciones.jpg"
+  image: widget-1-302x182.jpg
   text: 'Aqui descubriras que es lo que nos perimite comunicarnos a largas distancias.'
 widget2:
   title: "Electronica"
@@ -31,7 +31,7 @@ widget2:
 widget3:
   title: "Redes"
   url: 'http://carmenguidet.github.io/conoce/redes'
-  image: ""
+  image: /images/comunicaciones.jpg
   text: 'Las redes como el Intenet nos permite estar comunicados en todo momento.'
 
 

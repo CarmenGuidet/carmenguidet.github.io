@@ -27,5 +27,5 @@ Lista de componentes necesarios para realizar el proyecto:
 
 ## Código
 <p align="center">
-    <img src="/images/experimenta/esp32/Proyectos/Proyecto1.png" alt="Proyecto 1" width="400"/>
+    <img src="/images/experimenta/esp32/Proyectos/Proyecto1.png" alt="Proyecto 2" width="400"/>
 </p>

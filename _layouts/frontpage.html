@@ -24,6 +24,85 @@ format: frontpage
         background-color: #E65C00;
         /* Un poco más oscuro al hacer hover */
     }
+    .header {
+            display: flex;
+            justify-content: space-around;
+            background-color: #f5b19b;
+            padding: 20px 0;
+            text-align: center;
+        }
+        .header div {
+            flex: 1;
+            padding: 20px;
+        }
+        .header div:hover {
+            background-color: #e08c79;
+            cursor: pointer;
+        }
+        .header div h2 {
+            margin: 0;
+            color: #333;
+        }
+        .banner {
+            background-color: #e6613d;
+            color: white;
+            padding: 15px;
+            text-align: center;
+            position: relative;
+        }
+        .banner p {
+            margin: 0;
+            font-size: 1.2em;
+        }
+        .banner .button {
+            position: absolute;
+            right: 10%;
+            top: 50%;
+            transform: translateY(-50%);
+            background-color: white;
+            color: #e6613d;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 1em;
+        }
+        .map-section {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #404040;
+            padding: 40px 20px;
+            color: white;
+        }
+        .map-section .map {
+            flex: 1;
+            margin-right: 20px;
+        }
+        .map-section .map img {
+            width: 100%;
+            height: auto;
+            border: 0;
+        }
+        .map-section .description {
+            flex: 1;
+        }
+        .map-section .description h3 {
+            margin-top: 0;
+            font-size: 1.8em;
+        }
+        .map-section .dots {
+            margin-top: 20px;
+            text-align: center;
+        }
+        .map-section .dots span {
+            display: inline-block;
+            width: 10px;
+            height: 10px;
+            background-color: white;
+            border-radius: 50%;
+            margin: 0 5px;
+        }
 </style>
 
 
@@ -97,6 +176,35 @@ format: frontpage
 * Finally, if there is content, spit it out.
 *
 {% endcomment %}
+
+<div class="header">
+    <div>
+        <h2>Talleres</h2>
+    </div>
+    <div>
+        <h2>Charlas</h2>
+    </div>
+    <div>
+        <h2>Eventos</h2>
+    </div>
+</div>
+
+<div class="banner">
+    <p>Contactanos.</p>
+    <a class="button" href="contact/">Contacto</a>
+</div>
+
+<div class="map-section">
+    <div class="map">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d678.6243052441424!2d-3.625223572234837!3d37.196785730057336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd71fc55025f928b%3A0x4dbbca09efdcad08!2sE.T.S.%20de%20Ingenier%C3%ADas%20Inform%C3%A1tica%20y%20de%20Telecomunicaci%C3%B3n!5e0!3m2!1ses!2ses!4v1723456572537!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+    <div class="description">
+        <h3>Dónde estamos</h3>
+        <p>E.T.S. de Ingenierías Informática y de Telecomunicación</p>
+        <p>Calle Periodista Daniel Saucedo Aranda s/n </p>
+        <p>18071 (Granada-Spain)</p>
+    </div>
+</div>
 
 <div class="row">
     {{ content }}
