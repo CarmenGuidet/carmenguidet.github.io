@@ -25,6 +25,11 @@ Lista de componentes necesarios para realizar el proyecto:
 - **Actuadores**: Descripción de los actuadores (por ejemplo, motores, LEDs, etc.)
 - **Otros**: Descripción de otros componentes (cables, resistencias, protoboard, etc.)
 
+### Esqematico 
+<p align="center">
+    <img src="/images/experimenta/esp32/Proyectos/P01_Esquematico.png" alt="Proyecto 1" width="300"/>
+</p>
+
 ## Código
 <p align="center">
     <img src="/images/experimenta/esp32/Proyectos/Proyecto1.png" alt="Proyecto 2" width="400"/>

@@ -7,6 +7,7 @@ tags:
     - ondas
     - modelos
     - gominolas
+    - casa
 categories:
     - experimenta
 ---
@@ -43,11 +44,6 @@ En este experimento, construirás un modelo de ondas utilizando gominolas y broc
 - 1 vaso con agua.
 - 1 regla.
 - 1 estructura para anclar la cinta adhesiva (como una mesa).
-
-### Recursos de apoyo
-
-- Cronómetro (opcional, para medición de velocidad de ondas).
-- Diferentes tipos de gominolas (opcional, para comparación de materiales).
 
 ## Instrucciones
 
