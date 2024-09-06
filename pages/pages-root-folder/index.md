@@ -27,17 +27,17 @@ widget2:
   title: "Electronica"
   url: 'http://carmenguidet.github.io/conoce/electronica'
   image: http://carmenguidet.github.io/images/electronica.jpg
-  text: 'Una de las razones por las que nos podemos comunicar es gracias a la electronica.'
+  text: 'Nos permite crear ciudades inteligentes, robots y MUCHO MÁS.'
 widget3:
   title: "Telematica"
   url: 'http://carmenguidet.github.io/conoce/redes'
   image: http://carmenguidet.github.io/images/telematica.jpg
-  text: '.'
+  text: 'Nos permite mantenernos seguros en la red.'
 widget4:
   title: "Multimedia"
   url: 'http://carmenguidet.github.io/conoce/multimedia'
   image: http://carmenguidet.github.io/images/multimedia.jpg
-  text: ''
+  text: 'Realidad aumentada, inteligencia artificial.'
 
 
 callforaction:
