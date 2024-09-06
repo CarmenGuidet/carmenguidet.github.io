@@ -19,20 +19,25 @@ description: "Experimenta las telecomunicaciones"
 #
 
 widget1:
-  title: "Comunicaciones"
+  title: "Comunicaciones clasicas"
   url: 'http://carmenguidet.github.io/conoce/comunicaciones'
-  image: widget-1-302x182.jpg
+  image: http://carmenguidet.github.io/images/comunicaciones.jpg 
   text: 'Aqui descubriras que es lo que nos perimite comunicarnos a largas distancias.'
 widget2:
   title: "Electronica"
   url: 'http://carmenguidet.github.io/conoce/electronica'
-  image: widget-1-302x182.jpg
+  image: http://carmenguidet.github.io/images/electronica.jpg
   text: 'Una de las razones por las que nos podemos comunicar es gracias a la electronica.'
 widget3:
-  title: "Redes"
+  title: "Telematica"
   url: 'http://carmenguidet.github.io/conoce/redes'
-  image: /images/comunicaciones.jpg
-  text: 'Las redes como el Intenet nos permite estar comunicados en todo momento.'
+  image: http://carmenguidet.github.io/images/telematica.jpg
+  text: '.'
+widget4:
+  title: "Multimedia"
+  url: 'http://carmenguidet.github.io/conoce/multimedia'
+  image: http://carmenguidet.github.io/images/multimedia.jpg
+  text: ''
 
 
 callforaction:
