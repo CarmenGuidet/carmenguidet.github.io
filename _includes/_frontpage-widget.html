@@ -10,18 +10,32 @@
 {% capture widget_url %}{% if include.widget.url == NULL %}{% elsif include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}{% endcapture %}
 
 {% capture widget_image %}{% if include.widget.image contains 'http' %}{{ include.widget.image }}{% else %}{{ site.urlimg }}{{ include.widget.image }}{% endif %}{% endcapture %}
-
-<div class="small-12 medium-6 large-4 columns frontpage-widget">
+<style>
+	.frontpage-container {
+	  display: grid;
+	  grid-template-columns: repeat(2, 1fr); /* Dos columnas de igual tamaño */
+	  gap: 20px; /* Espacio entre los widgets */
+	  margin: 0 auto; /* Centra el contenedor horizontalmente */
+	}
+  
+	.frontpage-widget {
+	  text-align: center; /* Centra el contenido dentro del widget */
+	  display: center;
+	  flex-direction: column;
+	  align-items: center;
+	}
+</style>
+<div class="small-12 medium-6 large-5 columns frontpage-widget">
   {% if include.widget.video %}
     {{ include.widget.video }}
   {% elsif widget_url == empty %}
     {% if widget_image != empty %}
-      <img src="{{ widget_image }}" alt="" style="max-width: 100%; height: auto;" />
+      <img src="{{ widget_image }}" alt="" style="height: 300px; width: 360px;" />
     {% endif %}
   {% else %}
     <a href="{{ widget_url }}">
       {% if widget_image != empty %}
-        <img src="{{ widget_image }}" alt="" style="max-width: 100%; height: auto;" />
+        <img src="{{ widget_image }}" alt="" style="height: 300px; width: 360px;" />
       {% endif %}
     </a>
   {% endif %}
@@ -32,6 +46,6 @@
   {% endif %}
 
   {% if widget_url != empty %}
-    <p><a class="button tiny radius" href="{{ widget_url }}">{{ site.data.language.more }}</a></p>
+    <p><a class="button small radius" href="{{ widget_url }}">{{ site.data.language.more }}</a></p>
   {% endif %}
 </div>
