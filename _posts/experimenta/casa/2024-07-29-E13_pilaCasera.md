@@ -3,7 +3,6 @@
 layout: page
 subheadline: Experimenta desde casa
 title: "Experimento 13: Construcción de una Pila Casera"
-teaser: "Aprende a generar electricidad usando monedas, vinagre y algunos materiales simples que puedes encontrar en casa."
 tags:
     - electronica
     - pila casera

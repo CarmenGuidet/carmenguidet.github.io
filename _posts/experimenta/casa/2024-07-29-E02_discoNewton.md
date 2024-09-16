@@ -2,11 +2,11 @@
 layout: page
 subheadline: Experimenta desde casa
 title:  "Experimento 2: Disco de Newton"
-teaser: "Disco de Newton"
 tags:
     - ondas
     - luz
     - casa
+    - multimedia
 categories:
     - experimenta
 ---
@@ -46,9 +46,6 @@ En este experimento, construiremos un Disco de Newton para demostrar cómo la co
 - Un motor pequeño con batería (opcional) o un lápiz
 ![Disco Newton 1](/images/experimenta/casa/discoNewton1.jpeg "Disco Newton 1")
 
-### Recursos de apoyo
-
-
 ## Instrucciones
 
 ### Pasos
@@ -78,3 +75,6 @@ En este experimento, construiremos un Disco de Newton para demostrar cómo la co
 - **Variación de colores:** Experimenta con diferentes combinaciones de colores y observa cómo afectan a la apariencia del disco en movimiento.
 - **Investigación histórica:** Investiga la historia del Disco de Newton y su importancia en el desarrollo de la teoría del color.
 - **Aplicaciones prácticas:** Explora otras aplicaciones de la mezcla aditiva de colores en la tecnología moderna, como en pantallas de computadoras y televisores.
+
+## ¿Que tiene que ver con teleco?
+El experimento del Disco de Newton tiene que ver con la ingeniería de telecomunicaciones en cuanto a la comprensión de cómo se comporta la luz, un aspecto clave en la transmisión de señales ópticas. En telecomunicaciones, especialmente en sistemas de fibra óptica, se utilizan diferentes longitudes de onda de luz para transmitir información. Al entender cómo los colores del espectro visible se combinan para formar luz blanca, estamos explorando principios similares a los que se aplican en la multiplexación por división de longitud de onda (WDM), una técnica que permite transmitir múltiples señales de datos a través de diferentes colores de luz dentro de un solo cable de fibra óptica.

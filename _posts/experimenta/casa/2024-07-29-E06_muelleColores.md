@@ -2,17 +2,14 @@
 layout: page
 subheadline: Experimenta desde casa
 title:  "Experimento 6: Generación de Ondas con un Muelle de Colores"
-teaser: "Generación de Ondas con un Muelle de Colores"
 tags:
     - ondas
     - estacionarias
     - casa
+    - telematica
 categories:
     - experimenta
 ---
-
-# Generación de Ondas con un Muelle de Colores
-
 ## Descripción del experimento
 
 En este experimento, utilizaremos un muelle de colores para visualizar y entender cómo se comportan tanto las ondas longitudinales como las transversales. Un muelle de colores es un juguete de resorte que puede demostrar de manera efectiva los principios de propagación de ondas.

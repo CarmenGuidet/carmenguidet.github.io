@@ -3,13 +3,13 @@
 layout: page
 subheadline: Experimenta desde casa
 title: "Experimento 12: Construcción de un Micrófono de Carbón Casero"
-teaser: "Crea un micrófono funcional con materiales simples y descubre cómo funcionan los primeros micrófonos."
 tags:
     - acústica
     - micrófono de carbón
     - experimentos caseros
     - casa
     - ondas
+    - comunicaciones
 categories:
     - experimenta
 ---

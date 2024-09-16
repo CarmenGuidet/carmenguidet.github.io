@@ -2,11 +2,11 @@
 layout: page
 subheadline: Experimenta desde casa
 title:  "Experimento 4: Espectroscopio Casero (Public Lab)"
-teaser: "Espectroscopio Casero (Public Lab)"
 tags:
     - ondas
     - luz
     - casa
+    - telematica
 categories:
     - experimenta
 ---
@@ -44,9 +44,6 @@ Entre 10 y 16 años
 - Cartulina A4 negra
 - Fotocopia del [Papercraft Spectrometer](https://github.com/publiclab/papercraft-spectrometer/blob/main/foldable-2.0.10.pdf)
 
-### Recursos de apoyo
-
-
 ## Instrucciones
 
 ### Pasos
@@ -54,4 +51,5 @@ Entre 10 y 16 años
 1. Pegue la fotocopia de Papercraft Spectrometer en la cartulina negra.
 2. Siga las instrucciones indicadas en la fotocopia.
 
-### Actividades complementarias (opcional)
+## ¿Qué tiene que ver con teleco?
+El experimento de construir un espectroscopio casero tiene que ver con la ingeniería de telecomunicaciones porque permite entender cómo la luz se puede descomponer en sus diferentes longitudes de onda, un principio que es clave en las telecomunicaciones ópticas. En los sistemas de fibra óptica, la información se transmite utilizando diferentes longitudes de onda de luz, y técnicas como la multiplexación por división de longitud de onda (WDM) dependen de la capacidad de separar y distinguir estas longitudes de onda. Al usar un espectroscopio casero, observamos cómo la luz blanca se divide en su espectro de colores, lo que nos ayuda a comprender mejor cómo se maneja la luz en la transmisión de datos a través de fibras ópticas.

@@ -1,13 +1,13 @@
 ---
 layout: page  
 subheadline: Experimenta desde casa  
-title: "Experimento 14: Construcción de un Visor de Hologramas Casero"  
-teaser: "Aprende a crear tu propio visor de hologramas utilizando materiales simples que puedes encontrar en casa."  
+title: "Experimento 14: Construcción de un Visor de Hologramas Casero"   
 tags:  
    - hologramas  
    - visor casero  
    - experimentos caseros  
-   - casa  
+   - casa
+   - multimedia 
 categories:  
    - experimenta  
 ---

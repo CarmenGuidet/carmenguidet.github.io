@@ -2,17 +2,14 @@
 layout: page
 subheadline: Experimenta desde casa
 title:  "Experimento 3: Ondas Longitudinales con Agua y Vasos de Cristal"
-teaser: "Ondas Longitudinales con Agua y Vasos de Cristal"
 tags:
     - ondas
     - estacionarias
     - casa
+    - comunicaciones
 categories:
     - experimenta
 ---
-
-# Ondas Longitudinales con Agua y Vasos de Cristal
-
 ## Descripción del experimento
 
 En este experimento, utilizaremos agua y dos vasos de cristal para visualizar y entender cómo se comportan las ondas longitudinales. Las ondas longitudinales son aquellas en las que la vibración del medio es paralela a la dirección de propagación de la onda. Este tipo de ondas es característico del sonido.
@@ -74,10 +71,11 @@ A partir de 8 años (con supervisión de un adulto para el manejo de los vasos d
 6. **Comparación de medios:**
    - Prueba a llenar los vasos con diferentes niveles de agua y repite el experimento para observar cómo la cantidad de agua afecta a la propagación de las ondas.
 
-### Actividades complementarias (opcional)
+### Actividades complementarias
 
 - **Exploración de resonancia:** Encuentra la frecuencia a la cual los vasos de cristal resuenan golpeándolos suavemente y observando la respuesta de las ondas en el agua.
-
 - **Análisis de ondas:** Dibuja o graba las ondas para analizar la longitud de onda y la frecuencia.
-
 - **Comparación con ondas transversales:** Compara las ondas longitudinales creadas con las ondas transversales (como las creadas en una cuerda) para entender las diferencias entre ambos tipos de ondas.
+
+## ¿Qué tiene que ver con teleco?
+Este experimento tiene que ver con la ingeniería de telecomunicaciones porque ayuda a entender cómo se comportan las ondas longitudinales, que son fundamentales en la transmisión del sonido. En telecomunicaciones, las ondas sonoras son convertidas en señales eléctricas o digitales para ser transmitidas a través de diferentes medios, pero el principio básico de propagación de ondas sigue siendo el mismo. Al visualizar cómo las ondas longitudinales se desplazan a través del agua, estamos comprendiendo mejor cómo las vibraciones viajan en un medio, lo cual es clave para entender la transmisión de señales acústicas y su aplicación en tecnologías como el audio digital o la telefonía.

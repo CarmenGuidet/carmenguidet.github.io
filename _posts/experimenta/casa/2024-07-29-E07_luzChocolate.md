@@ -2,11 +2,11 @@
 layout: page
 subheadline: Experimenta desde casa
 title:  "Experimento 7: Medir la velocidad de la luz con chocolate"
-teaser: "Medir la velocidad de la luz con chocolate"
 tags:
     - ondas
     - sonido
     - casa
+    - telematica
 categories:
     - experimenta
 ---

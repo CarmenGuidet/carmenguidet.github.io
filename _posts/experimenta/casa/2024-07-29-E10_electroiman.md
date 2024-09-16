@@ -2,7 +2,6 @@
 layout: page
 subheadline: Experimenta desde casa
 title: "Experimento 10: Construcción de un Electroimán Casero"
-teaser: "Crea un electroimán ."
 tags:
     - electroimán
     - electromagnetismo

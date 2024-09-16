@@ -7,6 +7,7 @@ tags:
     - redes
     - ordenador
     - scratch 
+    - casa
 categories:
     - experimenta
 ---

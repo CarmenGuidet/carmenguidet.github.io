@@ -2,12 +2,12 @@
 layout: page
 subheadline: Experimenta desde casa
 title: "Experimento 8: Ondas de Gominolas"
-teaser: "Construye y explora un modelo de ondas utilizando gominolas y brochetas."
 tags:
     - ondas
     - modelos
     - gominolas
     - casa
+    - comunicaciones 
 categories:
     - experimenta
 ---

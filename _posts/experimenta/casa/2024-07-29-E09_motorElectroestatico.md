@@ -2,7 +2,6 @@
 layout: page
 subheadline: Experimenta desde casa
 title: "Experimento 9: Motor electroestatico"
-teaser: "Motor electroestatico un motor sin baterias"
 tags:
     - electronica
     - globos

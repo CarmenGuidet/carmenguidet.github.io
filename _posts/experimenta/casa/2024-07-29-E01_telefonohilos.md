@@ -2,15 +2,14 @@
 layout: page
 subheadline: Experimenta desde casa
 title:  "Experimento 1: Telefono de vasos con hilos "
-teaser: "Telefono de vasos con hilos"
 tags:
     - ondas
     - sonido
     - casa
+    - comunicaciones
 categories:
     - experimenta
 ---
-
 ## Descripción del experimento
 
 En este experimento, se construirá un teléfono utilizando vasos y hilos para demostrar cómo se transmite el sonido a través de las vibraciones en el material.
@@ -56,8 +55,13 @@ De 6 a 10 años
 4. Estira el hilo para que quede tenso entre los dos vasos.
 5. Una persona habla en un vaso mientras otra escucha en el otro vaso. Observen cómo el sonido se transmite a través del hilo.
 
+
 ### Actividades complementarias
 
 - Experimentar con diferentes tipos de hilos (lana, hilo de pescar, cuerda).
 - Probar con diferentes longitudes de hilo para ver cómo afecta la calidad del sonido.
 - Discutir por qué el hilo debe estar tenso para que el sonido se transmita eficientemente.
+
+## ¿Qué tien que ver con teleco?
+
+El proyecto de hacer un teléfono con vasos e hilo de lana tiene mucho que ver con la ingeniería de telecomunicaciones porque demuestra de manera básica cómo se transmite el sonido a través de un medio físico, en este caso el hilo. Al igual que en las telecomunicaciones, donde las señales viajan por cables o fibras ópticas, aquí el hilo transmite las vibraciones del sonido. Este experimento sencillo refleja principios clave como la transmisión de señales, la propagación de ondas y la comunicación entre emisor y receptor, que son fundamentales en la ingeniería de telecomunicaciones.

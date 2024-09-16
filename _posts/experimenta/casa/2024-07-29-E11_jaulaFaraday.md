@@ -2,7 +2,6 @@
 layout: page
 subheadline: Experimenta desde casa
 title: "Experimento 11: Construcción de una Jaula de Faraday Casera"
-teaser: "Explora cómo una Jaula de Faraday puede bloquear los campos electromagnéticos."
 tags:
     - electromagnetismo
     - jaula de faraday

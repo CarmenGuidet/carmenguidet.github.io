@@ -20,18 +20,16 @@
     url: "/conoce/multimedia/"
 
 
-
-
 - title: "Experimenta"
   url: "/experimenta/"
   side: right
   dropdown:
-  - title: "Experimenta desde casa"
+  - title: "Desde casa"
     url: "/experimenta/casa/"
-  - title: "Experimenta con un ordenador"
-    url: "/experimenta/ordenador/"
-  - title: "ESP32"
+  - title: "Smart Home de ESP32"
     url: "/experimenta/esp32/"
+  - title: "Con microbit"
+    url: "/experimenta/microbit/"
   - title: "Profesorado"
     url: "/experimenta/profesorado/"
 

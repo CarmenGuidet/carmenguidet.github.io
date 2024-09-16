@@ -1,8 +1,8 @@
 ---
 layout: page
-subheadline: ""
+subheadline: Electronica
 title: "Circuito electrico"
-teaser: ""
+teaser: 
 categories:
   - conoce
   - electronica

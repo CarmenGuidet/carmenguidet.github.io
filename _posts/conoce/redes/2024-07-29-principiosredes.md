@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: ""
+subheadline: Telematica
 title: "Principio de las redes de comunicacion."
 teaser: ""
 categories:

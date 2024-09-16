@@ -7,6 +7,7 @@ tags:
     - redes
     - ordenador
     - terminal
+    - casa
 categories:
     - experimenta
 ---
