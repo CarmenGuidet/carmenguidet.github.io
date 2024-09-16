@@ -32,7 +32,7 @@ widget3:
   title: "Telematica"
   url: 'http://carmenguidet.github.io/conoce/redes'
   image: http://carmenguidet.github.io/images/telematica.jpg
-  text: 'Nos permite mantenernos seguros en la red.'
+  text: 'Nos permite mantenernos seguros en la red, encriptar información.'
 widget4:
   title: "Multimedia"
   url: 'http://carmenguidet.github.io/conoce/multimedia'

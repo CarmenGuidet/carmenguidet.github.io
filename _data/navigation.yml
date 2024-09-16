@@ -16,6 +16,9 @@
     url: "/conoce/electronica/"
   - title: "Redes"
     url: "/conoce/redes/"
+  - title: "Multimedia"
+    url: "/conoce/multimedia/"
+
 
 
 
@@ -27,8 +30,6 @@
     url: "/experimenta/casa/"
   - title: "Experimenta con un ordenador"
     url: "/experimenta/ordenador/"
-  - title: "Microbit"
-    url: "/experimenta/microbit/"
   - title: "ESP32"
     url: "/experimenta/esp32/"
   - title: "Profesorado"

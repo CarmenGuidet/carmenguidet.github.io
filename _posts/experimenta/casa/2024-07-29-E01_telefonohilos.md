@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: Experimenta desde casa
-title:  "Experimento 1: Telefono de vasos con hilos"
+title:  "Experimento 1: Telefono de vasos con hilos "
 teaser: "Telefono de vasos con hilos"
 tags:
     - ondas
