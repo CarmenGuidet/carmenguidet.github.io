@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: Experimenta desde casa
-title:  "Experimento 7: Medir la velocidad de la luz con chocolate"
+title:  "Experimento 7: 🍫Medir la velocidad de la luz con chocolate. 🟡"
 tags:
     - ondas
     - sonido
@@ -77,3 +77,6 @@ Este experimento te permitirá medir la velocidad de la luz utilizando un microo
 - **Verificación del experimento:** Repite el experimento varias veces para obtener un valor promedio más preciso.
 - **Exploración de errores:** Investiga posibles fuentes de error en el experimento, como la precisión en la medición de la longitud de onda o la uniformidad de las microondas.
 - **Comparación con otros métodos:** Investiga y compara este método con otros métodos de medición de la velocidad de la luz.
+
+## ¿Qué tiene que ver con teleco? 
+El proyecto de medir la velocidad de la luz con chocolate tiene relación con la ingeniería de telecomunicaciones porque nos ayuda a comprender el comportamiento de la luz, un elemento crucial en las telecomunicaciones ópticas. Al calcular la velocidad de la luz, estamos investigando uno de los principios clave que permite la transmisión de datos a través de fibras ópticas, donde la información se envía mediante pulsos de luz. Este experimento nos permite entender cómo la luz se propaga y cómo su velocidad y longitud de onda impactan en la eficiencia y rapidez de las comunicaciones en las redes ópticas.

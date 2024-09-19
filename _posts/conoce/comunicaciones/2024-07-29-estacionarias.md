@@ -1,8 +1,7 @@
 ---
 layout: page
 subheadline: Comunicaciones
-title:  "Estacionarias"
-teaser: "¿Qué es una onda estacionaria?"
+title: "Ondas Estacionarias"
 tags:
     - ondas
     - estacionarias

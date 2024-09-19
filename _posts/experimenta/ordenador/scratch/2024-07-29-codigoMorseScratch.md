@@ -1,8 +1,7 @@
 ---
 layout: page
-subheadline: Experimenta desde un ordenador
-title:  "Proyecto 1: Cifrando a Código Morse"
-teaser: "Cifrando a Código Morse"
+subheadline: Juegos con Scratch 😻
+title:  "Proyecto 1: Cifrando a Código Morse 🆘"
 tags:
     - redes
     - ordenador

@@ -1,13 +1,14 @@
 ---
 layout: page
 subheadline: Telematica
-title: "Principio de las redes de comunicacion."
+title: "Principio de las redes de comunicación."
 teaser: ""
 categories:
   - conoce
-  - redes
+  - telematica
 tags:
-  - redes
+  - telematica
+  
 ---
 
 ## Definición de Redes Informáticas

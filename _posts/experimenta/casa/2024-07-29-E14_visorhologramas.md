@@ -1,7 +1,7 @@
 ---
 layout: page  
 subheadline: Experimenta desde casa  
-title: "Experimento 14: Construcción de un Visor de Hologramas Casero"   
+title: "Experimento 14: 🪞Construcción de un Visor de Hologramas. 🟢"   
 tags:  
    - hologramas  
    - visor casero  
@@ -75,3 +75,6 @@ En este experimento, aprenderás a construir un visor de hologramas casero utili
 - **Experimenta con diferentes tamaños:** Prueba a crear visores de diferentes tamaños para ver cómo afecta la claridad y tamaño del holograma.
 - **Personaliza los materiales:** Utiliza diferentes tipos de plásticos (más grueso o más delgado) para observar cómo cambia la calidad del holograma.
 - **Crea tus propios hologramas:** Utiliza software de edición de video para crear videos holográficos personalizados y visualízalos con tu visor.
+
+## ¿Qué tiene que ver con teleco?
+El proyecto de un visor de hologramas tiene que ver con la ingeniería de telecomunicaciones porque explora cómo se puede manipular la luz para crear imágenes tridimensionales, lo que está relacionado con tecnologías avanzadas de transmisión y visualización de información. Los hologramas dependen de la interferencia y difracción de ondas de luz, conceptos que también se aplican en telecomunicaciones ópticas, como en la transmisión de datos a través de fibra óptica. Además, en un futuro, las telecomunicaciones podrían integrar holografía para mejorar la realidad aumentada y las comunicaciones visuales en 3D, permitiendo experiencias más inmersivas y ricas en información.

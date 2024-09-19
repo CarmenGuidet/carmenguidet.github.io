@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: Experimenta desde casa
-title:  "Experimento 2: Disco de Newton"
+title:  "Experimento 2: 🌈 Disco de Newton. 🟢"
 tags:
     - ondas
     - luz

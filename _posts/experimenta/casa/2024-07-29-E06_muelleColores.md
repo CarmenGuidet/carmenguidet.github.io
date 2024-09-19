@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: Experimenta desde casa
-title:  "Experimento 6: Generación de Ondas con un Muelle de Colores"
+title:  "Experimento 6: 〰️Generación de Ondas con un Muelle. 🟢"
 tags:
     - ondas
     - estacionarias
@@ -73,3 +73,6 @@ En este experimento, utilizaremos un muelle de colores para visualizar y entende
 - **Exploración de resonancia:** Encuentra la frecuencia a la cual el muelle resuena moviendo los extremos de manera rítmica y observando la respuesta de las ondas.
 - **Análisis de ondas:** Dibuja o graba las ondas para analizar la longitud de onda y la frecuencia.
 - **Comparación con otros medios:** Compara las ondas creadas en el muelle con las ondas creadas en una cuerda o en el agua para entender las diferencias y similitudes entre distintos tipos de ondas.
+
+## ¿Qué tiene que ver con teleco?
+El proyecto de generar ondas con un muelle de colores tiene que ver con la ingeniería de telecomunicaciones porque permite visualizar cómo se propagan las ondas, ya sean longitudinales o transversales, que son fundamentales en la transmisión de señales. En telecomunicaciones, las ondas electromagnéticas o de radio se comportan de manera similar a las ondas en un muelle, viajando a través de distintos medios para transmitir información. Este experimento ayuda a entender conceptos clave como la frecuencia, la amplitud y la longitud de onda, que son esenciales en la modulación y transmisión de datos en redes de telecomunicaciones.

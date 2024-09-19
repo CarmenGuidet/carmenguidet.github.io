@@ -40,7 +40,7 @@ permalink: "experimenta/"
         <p><a class="button" href="https://carmenguidet.github.io/experimenta/microbit/" >{{ site.data.language.more }}</a></p>
     </div>
     <div class="small-12 medium-6 large-6 columns frontpage-widget">
-        <img src="/images/electronica.jpg" alt="" style="height: 300px; width: 360px;" />
+        <img src="/images/profesorado.jpg" alt="" style="height: 300px; width: 360px;" />
         <h2 class="font-size-h3 t10">Profesorado</h2>
         <p><a class="button" href="https://carmenguidet.github.io/experimenta/profesorado/" >{{ site.data.language.more }}</a></p>
     </div>

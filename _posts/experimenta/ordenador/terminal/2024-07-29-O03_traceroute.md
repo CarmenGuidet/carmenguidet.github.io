@@ -4,7 +4,7 @@ subheadline: Experimenta desde un ordenador
 title:  "Experimento 3: Rastrear la Ruta a un Sitio Web con Traceroute"
 teaser: "Rastrear la Ruta a un Sitio Web con Traceroute"
 tags:
-    - redes
+    - telematica
     - ordenador
     - terminal
     - casa

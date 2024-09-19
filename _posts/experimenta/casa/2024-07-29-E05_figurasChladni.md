@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: Experimenta desde casa
-title:  "Experimento 5: Figuras de Chladni"
+title:  "Experimento 5: 🔉 Figuras de Chladni. 🟠"
 tags:
     - ondas
     - sonido

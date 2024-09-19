@@ -1,5 +1,6 @@
 ---
 layout: page
+subheadline: Conoce más sobre
 title:  "Comunicaciones"
 categories:
     - comunicaciones

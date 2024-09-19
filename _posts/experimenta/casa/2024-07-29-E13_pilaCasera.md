@@ -2,7 +2,7 @@
 
 layout: page
 subheadline: Experimenta desde casa
-title: "Experimento 13: Construcción de una Pila Casera"
+title: "Experimento 13: 🔋 Construcción de una Pila Casera. 🟡"
 tags:
     - electronica
     - pila casera

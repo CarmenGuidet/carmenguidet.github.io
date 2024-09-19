@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: Experimenta desde casa
-title:  "Experimento 4: Espectroscopio Casero (Public Lab)"
+title:  "Experimento 4: 🌈 Espectroscopio Casero (Public Lab). 🟡"
 tags:
     - ondas
     - luz

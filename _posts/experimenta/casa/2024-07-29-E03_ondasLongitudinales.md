@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: Experimenta desde casa
-title:  "Experimento 3: Ondas Longitudinales con Agua y Vasos de Cristal"
+title:  "Experimento 3: 🥛 Ondas Longitudinales con Agua 🟢"
 tags:
     - ondas
     - estacionarias

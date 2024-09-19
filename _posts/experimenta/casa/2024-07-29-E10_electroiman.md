@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: Experimenta desde casa
-title: "Experimento 10: Construcción de un Electroimán Casero"
+title: "Experimento 10: 🧲Construcción de un Electroimán Casero. 🟢"
 tags:
     - electroimán
     - electromagnetismo
@@ -10,8 +10,6 @@ tags:
 categories:
     - experimenta
 ---
-
-# Construcción de un Electroimán Casero
 
 ## Descripción del experimento
 
@@ -77,3 +75,6 @@ En este experimento, aprenderás a construir un electroimán casero utilizando u
 
 
 Este proyecto esta basando en el siguiente proyecto : [Electroiman] (https://www.fundacionendesa.org/es/educacion/endesa-educa/blog/electromagnetismo-electroiman)
+
+## ¿Que tiene que ver con teleco?
+El proyecto de un electroimán casero tiene que ver con la ingeniería de telecomunicaciones porque demuestra el principio del electromagnetismo, que es esencial en la transmisión y recepción de señales. Los electroimanes son clave en muchos dispositivos de telecomunicaciones, como los altavoces, micrófonos y relés, donde se convierten señales eléctricas en sonido o viceversa. Además, el electromagnetismo es la base del funcionamiento de las ondas electromagnéticas, que permiten la transmisión de datos en redes inalámbricas, radio y televisión. Este proyecto ilustra cómo las corrientes eléctricas pueden generar campos magnéticos, algo fundamental para muchas tecnologías en telecomunicaciones.

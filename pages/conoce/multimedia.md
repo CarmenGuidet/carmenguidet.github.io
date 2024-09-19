@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "multimedia"
+subheadline: Conoce más sobre
+title: "Multimedia"
 categories:
   - conoce
   - multimedia

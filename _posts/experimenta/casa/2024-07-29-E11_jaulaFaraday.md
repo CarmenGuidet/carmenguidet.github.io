@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: Experimenta desde casa
-title: "Experimento 11: Construcción de una Jaula de Faraday Casera"
+title: "Experimento 11: 🫧Construcción de una Jaula de Faraday Casera. 🟡"
 tags:
     - electromagnetismo
     - jaula de faraday
@@ -62,3 +62,7 @@ En este experimento, construirás una Jaula de Faraday casera y comprobarás có
 
 
 Este proyecto esta basando en el siguiente proyecto : [Faraday](https://www.fundacionendesa.org/es/educacion/endesa-educa/blog/la-jaula-de-faraday)
+
+## ¿Que tiene que ver con teleco?
+
+El proyecto de una jaula de Faraday tiene que ver con la ingeniería de telecomunicaciones porque demuestra cómo los campos electromagnéticos pueden ser bloqueados o contenidos, un principio fundamental en la protección de equipos electrónicos y en la transmisión de señales. La jaula de Faraday, al bloquear las señales externas, ilustra cómo las telecomunicaciones se ven afectadas por interferencias electromagnéticas. Este concepto es esencial para garantizar que las señales se transmitan de manera clara y sin perturbaciones, y es aplicado en la protección de dispositivos electrónicos sensibles en redes de telecomunicaciones o en la construcción de cámaras anecoicas para pruebas de equipos de transmisión.

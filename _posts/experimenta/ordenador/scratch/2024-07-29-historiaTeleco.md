@@ -1,8 +1,7 @@
 ---
 layout: page
-subheadline: Experimenta desde un ordenador
-title:  "Proyecto 2: Historia de las Telecomunicaciones en España"
-teaser: "Historia de las Telecomunicaciones en España"
+subheadline: Juegos con Scratch 😻
+title:  "Proyecto 2: Historia de las Telecomunicaciones en España 📡"
 tags:
     - redes
     - ordenador

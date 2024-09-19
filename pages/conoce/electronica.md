@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Electronica"
+subheadline: Conoce más sobre
+title: "Electrónica"
 categories:
   - conoce
   - electronica

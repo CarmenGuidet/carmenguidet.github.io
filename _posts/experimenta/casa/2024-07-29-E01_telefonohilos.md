@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: Experimenta desde casa
-title:  "Experimento 1: Telefono de vasos con hilos "
+title:  "Experimento 1:📞 Telefono de vasos con hilos. 🟢"
 tags:
     - ondas
     - sonido
@@ -34,7 +34,7 @@ De 6 a 10 años
 
 ### Materiales
 
-- 2 vasos de plástico o papel, tambien se pueden utilizar vasos de yougur 
+- 2 vasos de plástico o papel, tambien se pueden utilizar vasos de yogur.
 - Hilo (aproximadamente 2-3 metros)
 - Tijeras
 
