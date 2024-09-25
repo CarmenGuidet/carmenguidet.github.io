@@ -12,9 +12,9 @@
   dropdown:
   - title: "Comunicaciones"
     url: "/conoce/comunicaciones/"
-  - title: "Electronica"
+  - title: "Electrónica"
     url: "/conoce/electronica/"
-  - title: "Telematica"
+  - title: "Telemática"
     url: "/conoce/telematica/"
   - title: "Multimedia"
     url: "/conoce/multimedia/"

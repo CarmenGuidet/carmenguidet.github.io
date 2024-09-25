@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: Conoce más sobre
-title:  "Telematica"
+title:  "Telemática"
 teaser: ""
 categories:
     - conoce
