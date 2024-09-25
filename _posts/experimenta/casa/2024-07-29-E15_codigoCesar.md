@@ -83,3 +83,7 @@ En este experimento, aprenderás cómo construir un **disco de cifrado César ca
 - **Crea mensajes secretos con tus amigos:** Intercambia discos de cifrado con un amigo y envíales mensajes cifrados que solo ellos puedan descifrar con el disco correcto.
 - **Personaliza tu disco:** Decora los discos con colores y símbolos para hacerlos más atractivos y únicos.
 - **Discute la seguridad del Cifrado César:** Reflexiona sobre las limitaciones del Cifrado César y por qué los métodos modernos de criptografía son mucho más complejos.
+
+## ¿Qué tiene que ver con teleco?
+
+El experimento del cifrado César está relacionado con las telecomunicaciones porque el cifrado es una técnica esencial para proteger la información que se transmite a través de redes de comunicación. En las telecomunicaciones, los mensajes que viajan por ondas de radio, cables o internet deben ser codificados para evitar que sean interceptados y comprendidos por terceros. Aunque el cifrado César es simple, ilustra el concepto básico de la criptografía, que se utiliza en las telecomunicaciones modernas para mantener la seguridad y privacidad de los datos transmitidos.

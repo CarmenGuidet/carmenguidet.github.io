@@ -73,5 +73,5 @@ En este experimento, construirás un modelo de ondas utilizando palillos de oíd
 - **Discusión sobre ondas:** Investiga y discute las diferencias entre ondas transversales y longitudinales, y clasifica el movimiento observado en este experimento.
 
 
-## ¿Que tiene que ver con teleoc?
+## ¿Qué tiene que ver con teleco?
 El proyecto de generar ondas con palitos de los oídos tiene que ver con la ingeniería de telecomunicaciones porque permite visualizar cómo se propagan las ondas mecánicas y entender conceptos clave como la frecuencia y la amplitud. En telecomunicaciones, las ondas, ya sean de sonido, electromagnéticas o de radio, son fundamentales para la transmisión de información. Al observar cómo las ondas se desplazan en un medio físico como los palitos, se pueden comprender mejor los principios de propagación y modulación de señales, esenciales para la transmisión eficiente de datos en redes de telecomunicaciones.

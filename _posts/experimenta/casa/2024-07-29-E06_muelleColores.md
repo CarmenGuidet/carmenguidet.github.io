@@ -68,7 +68,7 @@ En este experimento, utilizaremos un muelle de colores para visualizar y entende
 6. **Comparación de medios:**
    - Experimenta con diferentes tensiones en el muelle (acercando o alejando los extremos) para ver cómo afecta a la velocidad y la forma de las ondas.
 
-### Actividades complementarias (opcional)
+### Actividades complementarias
 
 - **Exploración de resonancia:** Encuentra la frecuencia a la cual el muelle resuena moviendo los extremos de manera rítmica y observando la respuesta de las ondas.
 - **Análisis de ondas:** Dibuja o graba las ondas para analizar la longitud de onda y la frecuencia.
