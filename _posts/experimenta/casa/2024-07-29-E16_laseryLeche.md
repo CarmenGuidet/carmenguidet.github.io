@@ -76,3 +76,6 @@ En este experimento, utilizaremos un láser para demostrar cómo la luz interact
 ## ¿Que tiene que ver con teleco?
 
 Este experimento tiene mucho que ver con las telecomunicaciones porque usa el mismo principio que las **fibras ópticas**, que son las que hacen posible el internet rápido y las llamadas a larga distancia. Al igual que el láser "rebota" dentro del chorro de agua, en las fibras ópticas la luz viaja rebotando dentro de un cable sin salirse, lo que permite que los datos lleguen a grandes distancias sin perderse. Así es como funcionan las conexiones que usamos todos los días para internet, videollamadas y más.
+
+## Referencias 
+-[El Laser que rebota en el AGUA (Fundación Aquae)](https://www.youtube.com/watch?v=OucPPCuV4v8)

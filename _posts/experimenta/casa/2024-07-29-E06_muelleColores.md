@@ -39,10 +39,8 @@ En este experimento, utilizaremos un muelle de colores para visualizar y entende
 - Un muelle de colores.
 - Un espacio amplio y despejado (como un pasillo o una superficie plana).
 
-### Recursos de apoyo
-
-
 ## Instrucciones
+
 ### Pasos
 
 1. **Preparación del muelle de colores:**
@@ -76,3 +74,6 @@ En este experimento, utilizaremos un muelle de colores para visualizar y entende
 
 ## ¿Qué tiene que ver con teleco?
 El proyecto de generar ondas con un muelle de colores tiene que ver con la ingeniería de telecomunicaciones porque permite visualizar cómo se propagan las ondas, ya sean longitudinales o transversales, que son fundamentales en la transmisión de señales. En telecomunicaciones, las ondas electromagnéticas o de radio se comportan de manera similar a las ondas en un muelle, viajando a través de distintos medios para transmitir información. Este experimento ayuda a entender conceptos clave como la frecuencia, la amplitud y la longitud de onda, que son esenciales en la modulación y transmisión de datos en redes de telecomunicaciones.
+
+## Referencias 
+[Ondas longitudinales y Transversales](https://www.youtube.com/watch?v=-_PMqqEnr7E)

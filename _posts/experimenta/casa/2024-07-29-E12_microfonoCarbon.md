@@ -73,8 +73,9 @@ En este experimento, construiremos un micrófono de carbón casero utilizando ma
 - **Prueba con diferentes configuraciones:** Cambia la distancia entre las minas o utiliza minas de diferentes grosores para observar cómo afecta al sonido captado.
 - **Medición de resistencia:** Si tienes un multímetro, mide la resistencia entre las minas al hablar en la caja para ver cómo varía con el sonido.
 
-Este proyecto esta basando en el siguiente proyecto : [Microfono](https://www.fundacionendesa.org/es/educacion/endesa-educa/blog/el-microfono-de-carbon)
-
 ## ¿Qué tiene que ver con teleco?
 
 El proyecto de un micrófono de carbón tiene que ver con la ingeniería de telecomunicaciones porque es un ejemplo clásico de cómo se convierten las ondas sonoras en señales eléctricas, un principio fundamental en la transmisión de voz y audio. Los micrófonos de carbón fueron ampliamente utilizados en las primeras redes telefónicas, ya que convierten las variaciones de presión sonora en cambios de resistencia eléctrica, modulando así una corriente eléctrica para transmitir señales de audio. Este proyecto ilustra conceptos esenciales en telecomunicaciones, como la conversión de señales acústicas a eléctricas y el proceso de modulación de señales, que son la base de la tecnología de telecomunicaciones.
+
+## Referencias
+- [Microfono de Carbón(Endesa Educa)](www.fundacionendesa.org/es/educacion/endesa-educa/blog/el-microfono-de-carbon)

@@ -82,8 +82,8 @@ El motor electrostático funciona gracias a la transferencia de electrones desde
 Este fenómeno, conocido como "efecto punta", también explica cómo los pararrayos funcionan para descargar la electricidad de los rayos de manera segura.
 
 
-
-Este proyecto esta basando en el siguiente proyecto : [MotorElectroestatico] (https://www.fundacionendesa.org/es/educacion/endesa-educa/blog/experimento-motor-electrostatico)
-
 ## ¿Qué tiene que ver con teleco?
 El proyecto de un motor electrostático tiene que ver con la ingeniería de telecomunicaciones porque ayuda a entender los principios básicos de la electricidad y el electromagnetismo, fundamentales para la transmisión de señales en los sistemas de telecomunicaciones. Los motores electrostáticos utilizan cargas eléctricas para generar movimiento, lo que se relaciona con cómo las cargas eléctricas y los campos electromagnéticos son utilizados en las antenas y los circuitos de comunicación para transmitir y recibir señales. Este proyecto también permite explorar conceptos como la fuerza eléctrica y el control de cargas, esenciales en el diseño y funcionamiento de dispositivos de telecomunicaciones.
+
+## Referencias 
+- [Motor Electroestatico (Endesa Educa)](https://www.fundacionendesa.org/es/educacion/endesa-educa/blog/experimento-motor-electrostatico)

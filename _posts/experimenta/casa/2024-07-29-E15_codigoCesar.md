@@ -87,3 +87,6 @@ En este experimento, aprenderás cómo construir un **disco de cifrado César ca
 ## ¿Qué tiene que ver con teleco?
 
 El experimento del cifrado César está relacionado con las telecomunicaciones porque el cifrado es una técnica esencial para proteger la información que se transmite a través de redes de comunicación. En las telecomunicaciones, los mensajes que viajan por ondas de radio, cables o internet deben ser codificados para evitar que sean interceptados y comprendidos por terceros. Aunque el cifrado César es simple, ilustra el concepto básico de la criptografía, que se utiliza en las telecomunicaciones modernas para mantener la seguridad y privacidad de los datos transmitidos.
+
+## Referencias 
+- [Ejemplos de uso del cifrado cesar en un escape room educativo](https://eduescaperoom.com/ejemplos-de-uso-del-cifrado-cesar-en-un-escape-room-educativo/)

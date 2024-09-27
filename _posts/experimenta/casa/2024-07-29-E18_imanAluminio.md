@@ -75,3 +75,6 @@ En este experimento, exploraremos cómo un **imán potente** y un **molde de alu
 ## ¿Qué tiene que ver con teleco?
 
 Este experimento está relacionado con las telecomunicaciones porque demuestra cómo los campos electromagnéticos pueden interactuar con materiales conductores, como el aluminio, generando corrientes inducidas. Este mismo principio de inducción electromagnética es clave en muchas tecnologías de telecomunicaciones, como las antenas y los sistemas de transmisión de datos, donde las ondas electromagnéticas son fundamentales para enviar y recibir señales de manera eficiente.
+
+## Referencias
+- [Interacción entre el aluminio y los imanes(fq-experimentos)](https://www.youtube.com/watch?v=UIlADr2wRkI)

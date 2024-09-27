@@ -69,3 +69,6 @@ En este experimento, utilizaremos un **teléfono móvil** para observar y compar
 Este experimento forma parte de los principios de las telecomunicaciones, ya que la mayoría de las comunicaciones actuales, como las llamadas móviles, el internet y la transmisión de datos, se basan en la conversión de señales analógicas a digitales y viceversa. Los conceptos de modulación, transmisión de datos, y corrección de errores son esenciales para entender cómo se optimiza el uso del ancho de banda y cómo las señales digitales permiten la transmisión eficiente de grandes cantidades de datos con mínima interferencia.
 
 Además, el uso de señales digitales ha permitido el avance de tecnologías como la transmisión de video en streaming, comunicaciones por satélite y telefonía móvil de alta velocidad, que son la base de las telecomunicaciones modernas.
+
+## Referencias 
+- [¿Señal Analogica VS Digital?(TeleComunicando)](https://www.youtube.com/watch?v=KJWiyDeXBac)

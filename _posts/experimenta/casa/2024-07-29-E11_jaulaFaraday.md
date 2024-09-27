@@ -60,9 +60,9 @@ En este experimento, construirás una Jaula de Faraday casera y comprobarás có
    - Frota el globo con un paño de lana o tu cabello para cargarlo eléctricamente.
    - Acerca el globo cargado a la burbuja sobre el portafolios, pero sin tocarla. Observa cómo la burbuja no se ve afectada por la carga del globo, demostrando que el campo eléctrico está bloqueado por la superficie jabonosa.
 
-
-Este proyecto esta basando en el siguiente proyecto : [Faraday](https://www.fundacionendesa.org/es/educacion/endesa-educa/blog/la-jaula-de-faraday)
-
 ## ¿Que tiene que ver con teleco?
 
 El proyecto de una jaula de Faraday tiene que ver con la ingeniería de telecomunicaciones porque demuestra cómo los campos electromagnéticos pueden ser bloqueados o contenidos, un principio fundamental en la protección de equipos electrónicos y en la transmisión de señales. La jaula de Faraday, al bloquear las señales externas, ilustra cómo las telecomunicaciones se ven afectadas por interferencias electromagnéticas. Este concepto es esencial para garantizar que las señales se transmitan de manera clara y sin perturbaciones, y es aplicado en la protección de dispositivos electrónicos sensibles en redes de telecomunicaciones o en la construcción de cámaras anecoicas para pruebas de equipos de transmisión.
+
+## Referencias
+- [Jaula de Faraday (Endesa Educa)](https://www.fundacionendesa.org/es/educacion/endesa-educa/blog/la-jaula-de-faraday)

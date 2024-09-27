@@ -91,4 +91,5 @@ En este experimento, aprenderás a construir una pila casera utilizando monedas,
 - **Variación en el número de monedas:** Intenta usar más o menos monedas para observar cómo cambia la intensidad de la corriente producida.
 - **Medición del voltaje:** Si tienes un multímetro, mide el voltaje generado por la pila casera y compáralo con diferentes configuraciones.
 
-Este proyecto esta basando en el siguiente proyecto : [Pila Casera ](https://www.fundacionendesa.org/es/educacion/endesa-educa/blog/pila-casera-con-monedas)
+## Referencias
+- [Pila Casera (Endesa Educa)](https://www.fundacionendesa.org/es/educacion/endesa-educa/blog/pila-casera-con-monedas)

@@ -53,3 +53,6 @@ Entre 10 y 16 años
 
 ## ¿Qué tiene que ver con teleco?
 El experimento de construir un espectroscopio casero tiene que ver con la ingeniería de telecomunicaciones porque permite entender cómo la luz se puede descomponer en sus diferentes longitudes de onda, un principio que es clave en las telecomunicaciones ópticas. En los sistemas de fibra óptica, la información se transmite utilizando diferentes longitudes de onda de luz, y técnicas como la multiplexación por división de longitud de onda (WDM) dependen de la capacidad de separar y distinguir estas longitudes de onda. Al usar un espectroscopio casero, observamos cómo la luz blanca se divide en su espectro de colores, lo que nos ayuda a comprender mejor cómo se maneja la luz en la transmisión de datos a través de fibras ópticas.
+
+## Referencias
+[Espectroscopio casero (Public Lab)](https://www.youtube.com/watch?v=ORJkTW8sd0E)

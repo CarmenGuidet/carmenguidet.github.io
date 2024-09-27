@@ -79,3 +79,6 @@ A partir de 8 años (con supervisión de un adulto para el manejo de los vasos d
 
 ## ¿Qué tiene que ver con teleco?
 Este experimento tiene que ver con la ingeniería de telecomunicaciones porque ayuda a entender cómo se comportan las ondas longitudinales, que son fundamentales en la transmisión del sonido. En telecomunicaciones, las ondas sonoras son convertidas en señales eléctricas o digitales para ser transmitidas a través de diferentes medios, pero el principio básico de propagación de ondas sigue siendo el mismo. Al visualizar cómo las ondas longitudinales se desplazan a través del agua, estamos comprendiendo mejor cómo las vibraciones viajan en un medio, lo cual es clave para entender la transmisión de señales acústicas y su aplicación en tecnologías como el audio digital o la telefonía.
+
+## Referencias
+- [Cómo hacer música con vasos de vidrio(profesor10demates)](https://www.profesor10demates.com/2022/02/como-hacer-musica-con-vasos-o-copas-de-agua-ondas-sonoras-experimentos.html)

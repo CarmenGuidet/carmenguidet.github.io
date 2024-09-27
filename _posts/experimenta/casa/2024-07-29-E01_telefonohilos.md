@@ -65,3 +65,6 @@ De 6 a 10 años
 ## ¿Qué tiene que ver con teleco?
 
 Este experimento tiene mucho que ver con la ingeniería de telecomunicaciones porque demuestra de manera básica cómo se transmite el sonido a través de un medio físico, en este caso el hilo. Al igual que en las telecomunicaciones, donde las señales viajan por cables o fibras ópticas, aquí el hilo transmite las vibraciones del sonido. Este experimento sencillo refleja principios clave como la transmisión de señales, la propagación de ondas y la comunicación entre emisor y receptor, que son fundamentales en la ingeniería de telecomunicaciones.
+
+## Referencias 
+[Teléfono de vasos: experimento para niños](https://www.conmishijos.com/preguntas-y-respuestas/experimentos/telefono-de-vasos-experimento-para-ninos/)

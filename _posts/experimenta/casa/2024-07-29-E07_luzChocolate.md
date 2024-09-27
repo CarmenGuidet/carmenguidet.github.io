@@ -80,3 +80,6 @@ Este experimento te permitirá medir la velocidad de la luz utilizando un microo
 
 ## ¿Qué tiene que ver con teleco? 
 El proyecto de medir la velocidad de la luz con chocolate tiene relación con la ingeniería de telecomunicaciones porque nos ayuda a comprender el comportamiento de la luz, un elemento crucial en las telecomunicaciones ópticas. Al calcular la velocidad de la luz, estamos investigando uno de los principios clave que permite la transmisión de datos a través de fibras ópticas, donde la información se envía mediante pulsos de luz. Este experimento nos permite entender cómo la luz se propaga y cómo su velocidad y longitud de onda impactan en la eficiencia y rapidez de las comunicaciones en las redes ópticas.
+
+## Referencias
+[Calcula la velocidad de la luz con chocolate (Belén Gomez)](https://www.youtube.com/watch?v=Q0HB9TigVTw)

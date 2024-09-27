@@ -12,8 +12,6 @@ tags:
 categories:  
    - experimenta  
 ---
-
-
 ## Descripción del experimento
 
 En este experimento, aprenderás cómo generar y detectar ondas electromagnéticas usando materiales caseros como papel aluminio, cables de cocodrilo y varillas de metal. Estos materiales te permitirán recrear una versión moderna del **experimento de Hertz**, mostrando cómo se generan las ondas que son clave en la transmisión de datos en telecomunicaciones.
@@ -80,3 +78,6 @@ En este experimento, aprenderás cómo generar y detectar ondas electromagnétic
 
 ## ¿Qué tiene que ver con teleco?
 Este experimento tiene mucho que ver con las telecomunicaciones porque demuestra cómo se generan y se detectan las ondas electromagnéticas, que son fundamentales para transmitir información de manera inalámbrica. Las ondas electromagnéticas son las que permiten que señales de radio, televisión, wifi y teléfonos móviles viajen a través del aire sin necesidad de cables. Al generar una chispa y observar cómo un receptor capta esa señal, estás simulando cómo se transmiten y reciben datos en las telecomunicaciones modernas.
+
+## Referencias
+- [El experimento de Hertz (Facultad de FIsica US)](https://www.youtube.com/watch?v=8IqpExHu0Kg)

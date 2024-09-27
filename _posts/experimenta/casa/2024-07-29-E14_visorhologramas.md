@@ -78,3 +78,6 @@ En este experimento, aprenderás a construir un visor de hologramas casero utili
 
 ## ¿Qué tiene que ver con teleco?
 El proyecto de un visor de hologramas tiene que ver con la ingeniería de telecomunicaciones porque explora cómo se puede manipular la luz para crear imágenes tridimensionales, lo que está relacionado con tecnologías avanzadas de transmisión y visualización de información. Los hologramas dependen de la interferencia y difracción de ondas de luz, conceptos que también se aplican en telecomunicaciones ópticas, como en la transmisión de datos a través de fibra óptica. Además, en un futuro, las telecomunicaciones podrían integrar holografía para mejorar la realidad aumentada y las comunicaciones visuales en 3D, permitiendo experiencias más inmersivas y ricas en información.
+
+## Referencias 
+- [¿Cómo hacer un visor de hologramas? (Los Profes de Ciencias)](https://www.youtube.com/watch?v=Q6kbliKjMqY)

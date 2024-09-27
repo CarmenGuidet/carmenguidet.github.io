@@ -78,3 +78,8 @@ En este experimento, construiremos un Disco de Newton para demostrar cómo la co
 
 ## ¿Que tiene que ver con teleco?
 El experimento del Disco de Newton tiene que ver con la ingeniería de telecomunicaciones en cuanto a la comprensión de cómo se comporta la luz, un aspecto clave en la transmisión de señales ópticas. En telecomunicaciones, especialmente en sistemas de fibra óptica, se utilizan diferentes longitudes de onda de luz para transmitir información. Al entender cómo los colores del espectro visible se combinan para formar luz blanca, estamos explorando principios similares a los que se aplican en la multiplexación por división de longitud de onda (WDM), una técnica que permite transmitir múltiples señales de datos a través de diferentes colores de luz dentro de un solo cable de fibra óptica.
+
+## Referencias 
+-[Jugamos con los colores: el disco de Newton](https://fciencias.ugr.es/20-cursos/semana-de-las-ciencias/1853-jugamos-con-los-colores-el-disco-de-newton-2014#:~:text=El%20disco%20de%20Newton%20es,siete%20colores%20del%20arco%20iris.)
+
+-[Como hacer un disco de Newton casero](https://www.youtube.com/watch?v=TBIGkjPu97I)

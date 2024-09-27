@@ -82,3 +82,6 @@ Este experimento permite visualizar patrones de vibración en una superficie uti
 
 ## ¿Qué tiene que ver con teleco?
 El experimento con figuras de Chladni tiene que ver con la ingeniería de telecomunicaciones porque permite visualizar cómo se comportan las ondas en diferentes medios, en este caso, las ondas acústicas. En telecomunicaciones, especialmente en el ámbito de la transmisión de señales de audio y vibraciones, el estudio de las ondas y sus patrones de resonancia es esencial. Las figuras de Chladni muestran cómo las vibraciones afectan a un medio físico, lo cual es similar a cómo las ondas sonoras se transmiten y modulan en diferentes sistemas de comunicación. Este conocimiento es crucial para mejorar tecnologías de audio, cancelación de ruido y calidad de señal en telecomunicaciones.
+
+## Referencias 
+- [Figuras de Chladni (ValPatSTEAM)](https://www.youtube.com/shorts/9N7N1jF4pGg)

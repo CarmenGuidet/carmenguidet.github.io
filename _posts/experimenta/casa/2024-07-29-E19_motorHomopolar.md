@@ -70,3 +70,6 @@ En este experimento, construirás un **motor homopolar**, uno de los motores el�
 ## ¿Qué tiene que ver con teleco?
 
 Este experimento tiene que ver con las telecomunicaciones porque el principio que demuestra —la interacción entre corrientes eléctricas y campos magnéticos— es fundamental para el funcionamiento de dispositivos como antenas, transmisores y motores eléctricos en telecomunicaciones. Los motores y generadores utilizados en telecomunicaciones dependen de estos principios electromagnéticos para convertir señales eléctricas en energía mecánica o viceversa, permitiendo la transmisión y recepción de datos.
+
+## Referencias 
+- [El motor más simple del mundo(Mc Graw Hill)](https://www.mheducation.es/blog/el-motor-mas-simple-del-mundo)
