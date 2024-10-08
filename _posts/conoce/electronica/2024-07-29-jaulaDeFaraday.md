@@ -3,9 +3,11 @@ layout: page
 subheadline: Electronica
 title:  "La Jaula de Faraday"
 tags:
+    - conoce
     - ondas
     - electronica
 categories:
+    - conoce
     - electronica
 ---
 

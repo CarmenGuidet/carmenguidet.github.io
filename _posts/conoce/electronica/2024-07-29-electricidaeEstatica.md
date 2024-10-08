@@ -8,6 +8,7 @@ categories:
   - electronica
 tags:
   - electronica
+  - conoce
 ---
 
 ## La magia de la electricidad estática: ¿Quién no ha recibido una pequeña descarga al tocar una puerta?

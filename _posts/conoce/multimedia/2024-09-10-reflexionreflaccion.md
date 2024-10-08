@@ -5,9 +5,9 @@ title: "Reflexión y Refracción"
 teaser: 
 categories:
   - conoce
-  - electronica
+  - multimedia
 tags:
-  - electronica
+  - conoce
 ---
 Imagina que estás disfrutando de una tarde tranquila, con un vaso de agua al lado. Decides meter un lápiz en el vaso y, de repente, ¡sorpresa! El lápiz parece doblarse justo en la superficie del agua. Seguro lo has visto alguna vez y te has preguntado: “¿Qué está pasando aquí?”. Tranquilo, no es magia, es ciencia, y todo tiene que ver con dos fenómenos básicos: la reflexión y la refracción.
 

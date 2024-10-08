@@ -3,11 +3,13 @@ layout: page
 subheadline: Comunicaciones
 title:  "Codigo Morse"
 tags:
+    - conoce
     - ondas
     - morse
     - comunicaciones
 categories:
     - comunicaciones
+    - conoce
 ---
 ## Definición
 

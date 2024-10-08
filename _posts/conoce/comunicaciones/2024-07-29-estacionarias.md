@@ -8,9 +8,9 @@ tags:
     - comunicaciones
 categories:
     - comunicaciones
+    - conoce
 ---
 
-## ¿Qué son las Ondas Estacionarias?
 Las ondas estacionarias son un tipo especial de ondas que se forman cuando dos ondas de la misma frecuencia y amplitud se propagan en direcciones opuestas y se superponen. Esta superposición crea un patrón de ondas que parece no moverse, con ciertos puntos (nodos) permaneciendo estacionarios mientras otros (antinodos) oscilan con amplitud máxima.
 
 ## Formación de Ondas Estacionarias
