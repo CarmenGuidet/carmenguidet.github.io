@@ -35,16 +35,16 @@ widget3:
   text: 'Nos permite mantenernos seguros en la red, encriptar información.'
 widget4:
   title: "Multimedia"
-  url: 'http://carmenguidet.github.io/conoce/multimedia'
+  url: /conoce/multimedia
   image: http://carmenguidet.github.io/images/multimedia.jpg
   text: 'Realidad aumentada, inteligencia artificial.'
 
 
 callforaction:
-  url1: http://carmenguidet.github.io/experimenta/casa
+  url1: /experimenta/casa
   text1: Experimenta y crea desde casa 
   style1: alert
-  url2: http://carmenguidet.github.io/experimenta/profesorado
+  url2: /experimenta/profesorado
   text2: Para profesorado
   style2: alert
 

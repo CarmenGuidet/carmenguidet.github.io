@@ -8,7 +8,6 @@ categories:
   - telematica
 tags:
   - telematica
-  
 ---
 
 ## Definición de Redes Informáticas
