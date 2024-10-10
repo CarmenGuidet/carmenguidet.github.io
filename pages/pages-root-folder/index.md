@@ -41,10 +41,10 @@ widget4:
 
 
 callforaction:
-  url1: 'http://carmenguidet.github.io/experimenta/casa'
+  url1: http://carmenguidet.github.io/experimenta/casa
   text1: Experimenta y crea desde casa 
   style1: alert
-  url2: 'http://carmenguidet.github.io/experimenta/profesorado'
+  url2: http://carmenguidet.github.io/experimenta/profesorado
   text2: Para profesorado
   style2: alert
 
