@@ -30,7 +30,7 @@ widget2:
   text: 'Nos permite crear ciudades inteligentes, robots y MUCHO MÁS.'
 widget3:
   title: "Telematica"
-  url: 'http://carmenguidet.github.io/conoce/redes'
+  url: 'http://carmenguidet.github.io/conoce/telematica'
   image: http://carmenguidet.github.io/images/telematica.jpg
   text: 'Nos permite mantenernos seguros en la red, encriptar información.'
 widget4:
@@ -41,10 +41,10 @@ widget4:
 
 
 callforaction:
-  url1: /experimenta/casa
+  url1: 'http://carmenguidet.github.io/experimenta/casa'
   text1: Experimenta y crea desde casa 
   style1: alert
-  url2: /experimenta/profesorado
+  url2: 'http://carmenguidet.github.io/experimenta/profesorado'
   text2: Para profesorado
   style2: alert
 
