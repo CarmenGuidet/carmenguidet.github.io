@@ -24,12 +24,12 @@ widget1:
   image: http://carmenguidet.github.io/images/comunicaciones.png
   text: 'Aqui descubriras que es lo que nos perimite comunicarnos a largas distancias.'
 widget2:
-  title: "Electronica"
+  title: "Electrónica"
   url: 'http://carmenguidet.github.io/conoce/electronica'
   image: http://carmenguidet.github.io/images/electronica.png
-  text: 'Nos permite crear ciudades inteligentes, robots y MUCHO MÁS.'
+  text: 'Nos permite crear ciudades inteligentes, robots y muchos más.'
 widget3:
-  title: "Telematica"
+  title: "Telemática"
   url: 'http://carmenguidet.github.io/conoce/telematica'
   image: http://carmenguidet.github.io/images/telematica.png
   text: 'Nos permite mantenernos seguros en la red, encriptar información.'
@@ -41,10 +41,10 @@ widget4:
 
 
 callforaction:
-  url1: http://carmenguidet.github.io/experimenta/casa
+  url1: '/experimenta/casa'
   text1: Experimenta y crea desde casa 
   style1: alert
-  url2: http://carmenguidet.github.io/experimenta/profesorado
+  url2: 'experimenta/profesorado'
   text2: Para profesorado
   style2: alert
 
