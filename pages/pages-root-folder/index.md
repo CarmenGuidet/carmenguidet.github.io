@@ -21,22 +21,22 @@ description: "Experimenta las telecomunicaciones"
 widget1:
   title: "Comunicaciones clasicas"
   url: 'http://carmenguidet.github.io/conoce/comunicaciones'
-  image: http://carmenguidet.github.io/images/comunicaciones.jpg 
+  image: http://carmenguidet.github.io/images/comunicaciones.png
   text: 'Aqui descubriras que es lo que nos perimite comunicarnos a largas distancias.'
 widget2:
   title: "Electronica"
   url: 'http://carmenguidet.github.io/conoce/electronica'
-  image: http://carmenguidet.github.io/images/electronica.jpg
+  image: http://carmenguidet.github.io/images/electronica.png
   text: 'Nos permite crear ciudades inteligentes, robots y MUCHO MÁS.'
 widget3:
   title: "Telematica"
   url: 'http://carmenguidet.github.io/conoce/telematica'
-  image: http://carmenguidet.github.io/images/telematica.jpg
+  image: http://carmenguidet.github.io/images/telematica.png
   text: 'Nos permite mantenernos seguros en la red, encriptar información.'
 widget4:
   title: "Multimedia"
   url: /conoce/multimedia
-  image: http://carmenguidet.github.io/images/multimedia.jpg
+  image: http://carmenguidet.github.io/images/multimedia.png
   text: 'Realidad aumentada, inteligencia artificial.'
 
 
