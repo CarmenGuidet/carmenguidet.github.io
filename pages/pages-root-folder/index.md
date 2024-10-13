@@ -42,10 +42,10 @@ widget4:
 
 callforaction:
   url1: '/experimenta/casa'
-  text1: Experimenta y crea desde casa 
+  text1: Desde casa 
   style1: alert
   url2: 'experimenta/profesorado'
-  text2: Para profesorado
+  text2: En el aula
   style2: alert
 
 permalink: /index.html
